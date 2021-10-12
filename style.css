@@ -29,6 +29,7 @@
   a {
     color:black;
     text-decoration: none;
+    
   }
   
   p {
@@ -63,5 +64,5 @@
   text-transform: capitalize;
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
-  
   }
+  
