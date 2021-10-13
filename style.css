@@ -11,6 +11,8 @@
     font-size: 48px;
   }
   h3 {
+    margin: 20px;
+    text-align: center;
     font-size: 24px;
   }
   h4 {  
@@ -65,4 +67,14 @@
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   }
-  
+  @media (max-width: 576px) {
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  20px
+}
+  }
